@@ -11,5 +11,14 @@ public class TestStringUtils {
 		System.out.println(StringUtils.countMatches(s1, 'A'));
 		System.out.println(StringUtils.reverse(s1));
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
